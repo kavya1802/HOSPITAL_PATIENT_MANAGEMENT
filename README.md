@@ -38,7 +38,7 @@ This project implements a robust relational database solution designed to manage
 - **Prescription** (`PrescriptionID`, TreatmentID, DoctorID, Medicine, Dosage, StartDate, EndDate)
 - **Bill** (`BillID`, PatientID, AdmissionID, BillingDate, Amount, Status)
 
-> **Full table definitions and schema** can be found in [`schema.sql`](schema.sql).
+> **Full table definitions and schema** can be found in (SCHEMA TABLES.sql).
 
 ---
 
