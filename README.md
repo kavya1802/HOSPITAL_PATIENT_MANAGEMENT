@@ -1,7 +1,7 @@
 # HOSPITAL_PATIENT_MANAGEMENT
 # Hospital Patient Management System
 
-**Course:** SE105 Managing and Querying Database  
+**Course:**  Managing and Querying Database  
 **Project:** Hospital Patient Management System  
 **Author:** KAVYA M THAKKER 
 **Date:** 22 August 2025
